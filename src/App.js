@@ -1,11 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Fragment } from 'react';
+import Header from './components/Header';
 
 function App() {
   return (
-    <div className="App">
-      Probando
-    </div>
+    <Fragment>
+      <Header 
+        titulo={CLOTHESSTORE}
+      />
+    </Fragment>
   );
 }
 
