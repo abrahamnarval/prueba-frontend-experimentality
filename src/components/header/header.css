@@ -1,0 +1,73 @@
+.logo{
+    max-width: 90%;
+    padding-left: 30px;
+    padding-right: 55px;
+}
+
+.inputSearch{
+    background-color: #EEEEEE;
+    border-radius: 1px;
+    border: none;
+    opacity: 1;
+    width: 285px !important;
+}
+
+.spanSearch{
+    border-radius: 1px;
+    border: none;
+}
+
+.imgSearch{
+    border-radius: 0rem;
+    background-color: #DEDEDEDE;
+    opacity: 1;
+    width: 23.5px;
+    height: 23.5px;
+}
+
+.imgCart{
+    padding-left: 30px;
+    padding-right: 10px;
+    width: 65px;
+    height: 25px;
+}
+
+.imgUser{
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 57px;
+    height: 25px;
+}
+
+.divButtonLogin{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.buttonLogin{
+    padding: 5px 10px 5px 10px;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    opacity: 1;
+}
+
+.divNavbarUp{
+    align-items: center;
+}
+
+.colorNavbarDown{
+    background-color: #000000 !important
+}
+
+.divMenu{
+    flex-direction: column;
+}
+
+.textColor{
+    color: white !important;
+    padding-left: 38px !important;
+    padding-right: 38px !important;
+    opacity: 1;
+    font-size: 26px;
+    font-weight: bold;
+}
